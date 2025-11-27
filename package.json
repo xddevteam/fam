@@ -1,0 +1,20 @@
+{
+    "package_families": [
+        {
+            "package_family_code": "f3303d95-8454-4e80-bb25-38513d358a11",
+            "family name": "Biz Manufacture"
+        },
+        {
+            "package_family_code": "ae2707e6-2996-45f8-944a-8a391e956f28",
+            "family name": "Biz E-Commerce"
+        },
+        {
+            "package_family_code": "20342db0-e03e-4dfd-b2d0-cd315d7ddc36",
+            "family name": "BIZ PrePaid"
+        },
+        {
+            "package_family_code": "53de8ac3-521d-43f5-98ce-749ad0481709",
+            "family name":  "Biz Data +"
+        }
+    ]
+}
