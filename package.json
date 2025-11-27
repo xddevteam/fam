@@ -325,6 +325,10 @@
             "family name": "Bonus Kuota 1 GB"
         },
         {
+            "package_family_code": "1134d040-52f8-4889-8682-2f200b7b9d03",
+            "family name":  "Daily Bonus Quota"
+        },
+        {
             "package_family_code": "000000000000000",
             "family name": "Rp.0 Gila"
         }
