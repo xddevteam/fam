@@ -326,7 +326,19 @@
         },
         {
             "package_family_code": "1134d040-52f8-4889-8682-2f200b7b9d03",
-            "family name":  "Daily Bonus Quota"
+            "family name": "Daily Bonus Quota"
+        },
+        {
+            "package_family_code": "1bd29d04-0c65-46bf-b398-19b6941c2e24",
+            "family name": "Bonus Xtra Hotrod Special"
+        },
+        {
+            "package_family_code": "3f4c0d03-c1b8-451b-a001-f3786f36351b",
+            "family name": "Bonus for You"
+        },
+        {
+            "package_family_code": "fb6bc9f0-9bd2-4630-b1db-dfb51e2c77be",
+            "family name": "Bonus Scan Voucher"
         },
         {
             "package_family_code": "000000000000000",
