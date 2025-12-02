@@ -341,6 +341,10 @@
             "family name": "Bonus Scan Voucher"
         },
         {
+            "package_family_code": "61e5834d-f0ab-4762-bbb5-da2dd106e80e",
+            "family name":  "Xtra Discount"
+        },
+        {
             "package_family_code": "000000000000000",
             "family name": "Rp.0 Gila"
         }
